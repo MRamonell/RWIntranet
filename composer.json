@@ -1,0 +1,11 @@
+{
+    "name": "MRamonell/RWIntranet",
+    "description": "Generador básico de Intranet",
+    "license": "MIT",
+    "type": "cms",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\MRamonell\\RWIntranet\\": "src/"
+        }
+    }
+}
